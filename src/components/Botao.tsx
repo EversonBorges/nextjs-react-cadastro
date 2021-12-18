@@ -12,6 +12,7 @@ export default function Botao(props) {
             ${props.className}
         `}>
             {props.children}
+			
         </button>
     )
 }
